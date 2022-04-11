@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Basic Information
+title: Basic Info
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
