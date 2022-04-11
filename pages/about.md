@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: My Basic Information
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
+**Email:** zhushihaoshu@outlook.com \
+**Location:** PuDongXinQu, Shanghai \
+**WeChat:** RectangleWhale
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+I'm in a job switching period in which this blog site was built. I want to write down some notes to enforce the understanding of new things.
