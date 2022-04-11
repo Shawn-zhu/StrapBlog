@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/StrapBlog"
-url: "https://Shawn-zhu.github.io"
+baseurl: "/"
+url: "www.zhushihao.xyz"
 
 # THEME-SPECIFIC CONFIGURATION
 title: ZhuShihao Blog                                   # site's title
