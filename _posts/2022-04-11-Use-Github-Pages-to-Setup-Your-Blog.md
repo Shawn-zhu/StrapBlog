@@ -12,7 +12,7 @@ tags: [Github Pages,Markdown]
    ![name your repository](/assets/img/blogs/UseGithubPagesToSetupWeb/Screen Shot 2022-04-14 at 16.01.23.png)
 3. 在主界面上点击*setting*，并在左侧选择*pages*。在右侧的配置界面中选择选择一个*branch*，这个时候除了None应该只有master这个可以选择。
    ![name your repository](/assets/img/blogs/UseGithubPagesToSetupWeb/Screen Shot 2022-04-14 at 16.49.12.png)
-   然后就可以在上面提示的网址访问自己的web了。在下面可以根据自己的喜好选择一个主题。
+   点击*save*后就可以在上面提示的网址访问自己的web了。在下面可以根据自己的喜好选择一个主题。
 
 ## 通过域名服务平台申请域名和解析服务
 
